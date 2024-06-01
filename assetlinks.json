@@ -1,0 +1,12 @@
+[
+    {
+        "relation": ["delegate_permission/common.handle_all_urls"],
+        "target": {
+            "namespace": "android_app",
+            "package_name": "com.example.crowdfunding_flutter",
+            "sha256_cert_fingerprints": [
+                "1B:53:BA:5B:99:0C:09:56:1B:1D:6B:82:7A:56:C9:D4:D1:05:B2:5F:A3:82:5D:63:6A:D6:26:51:F2:AF:9D:68"
+            ]
+        }
+    }
+]
